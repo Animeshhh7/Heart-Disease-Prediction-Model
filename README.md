@@ -1,4 +1,6 @@
-<img width="802" height="853" alt="heart disease prediction model" src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" width="500" alt="Heart Disease Prediction Model">
+</p>
 
 # Heart Disease Prediction using AI & ML
 
