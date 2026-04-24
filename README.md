@@ -33,12 +33,9 @@ The **Random Forest Classifier** achieved the highest accuracy, demonstrating ro
 | Decision Tree | ~78% |
 
 ## 🚀 How to Run
-1. Clone the repository:
-    git clone [https://github.com/Animeshhh7/Heart-Disease-Prediction-Model.git](https://github.com/Animeshhh7/Heart-          Disease-Prediction-Model.git)
-   
+1. Clone the repository.
 2. Install dependencies:
     pip install pandas numpy matplotlib seaborn scikit-learn
-
 3. Open the Jupyter Notebook file.
 
 
