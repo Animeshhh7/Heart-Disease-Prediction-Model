@@ -34,5 +34,17 @@ The **Random Forest Classifier** achieved the highest accuracy, demonstrating ro
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Animeshhh7/Heart-Disease-Prediction-Model.git](https://github.com/Animeshhh7/Heart-Disease-Prediction-Model.git)
+    git clone [https://github.com/Animeshhh7/Heart-Disease-Prediction-Model.git](https://github.com/Animeshhh7/Heart-          Disease-Prediction-Model.git)
+   
+2. Install dependencies:
+    pip install pandas numpy matplotlib seaborn scikit-learn
+
+3. Open the Jupyter Notebook file.
+
+
+## 📂 Project Structure
+HeartDiseaseAIPredictionModel.ipynb: Main analysis and code.
+
+heart_disease.csv: Clinical dataset used for training.
+
+.gitignore: Files excluded from the repository.
