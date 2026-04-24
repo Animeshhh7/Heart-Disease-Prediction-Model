@@ -1,3 +1,5 @@
+<img width="802" height="853" alt="heart disease prediction model" src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" />
+
 # Heart Disease Prediction using AI & ML
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
