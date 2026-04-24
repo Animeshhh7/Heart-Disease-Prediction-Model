@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" width="500" alt="Heart Disease Prediction Model">
-</p>
-
 # Heart Disease Prediction using AI & ML
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +45,8 @@ HeartDiseaseAIPredictionModel.ipynb: Main analysis and code.
 heart_disease.csv: Clinical dataset used for training.
 
 .gitignore: Files excluded from the repository.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" width="500" alt="Heart Disease Prediction Model">
+</p>
