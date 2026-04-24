@@ -47,6 +47,8 @@ heart_disease.csv: Clinical dataset used for training.
 .gitignore: Files excluded from the repository.
 
 
+--------------------------Workflow ----------------------------
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e208d34f-f3fc-4cc2-9252-91527620c233" width="500" alt="Heart Disease Prediction Model">
 </p>
